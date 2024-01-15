@@ -1,3 +1,3 @@
-# mgame
+# m-game
 
-UNITY GAME
+Simple Math Quiz
